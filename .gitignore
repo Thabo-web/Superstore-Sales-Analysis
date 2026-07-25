@@ -1,0 +1,22 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+.env
+.venv*/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Mac
+.DS_Store
+
+# Data
+data/*.xlsx
+data/*.csv
+data/*.parquet
+
+# VS Code / Codespaces
+.vscode/
+.devcontainer/.devcontainer.json
