@@ -1,0 +1,9 @@
+pandas>=1.5
+numpy
+matplotlib
+seaborn
+openpyxl
+jupyterlab
+scikit-learn
+xgboost
+mlflow
