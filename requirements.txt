@@ -1,9 +1,18 @@
+# Pinned minimal versions where it matters for reproducibility. Add or relax versions as needed.
 pandas>=1.5
-numpy
-matplotlib
-seaborn
-openpyxl
-jupyterlab
-scikit-learn
-xgboost
-mlflow
+numpy>=1.23
+matplotlib>=3.6
+seaborn>=0.12
+openpyxl>=3.1
+requests>=2.28
+pyarrow>=11.0
+fastparquet>=2023.10
+scikit-learn>=1.2
+xgboost>=1.7
+mlflow>=2.3
+jupyterlab>=4.0
+notebook
+tqdm
+joblib
+pandera
+ipython
